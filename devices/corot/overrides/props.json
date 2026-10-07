@@ -1,0 +1,8 @@
+{
+    "product": {
+        "persist.sys.vk_mode_enabled": "1",
+        "persist.sys.vk.com.android.thememanager": "1",
+        "persist.sys.vk.com.miui.aod": "1",
+        "persist.sys.vk.com.android.systemui": "1"
+    }
+}
